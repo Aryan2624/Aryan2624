@@ -24,13 +24,28 @@ Become an AI Engineer and build impactful AI applications.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode" />
-</p>
+### 💻 Programming Languages
+- 🐍 Python
+- ☕ Java (Basic)
 
----
+### 🤖 AI & ML
+- Machine Learning
+- NumPy
+- Pandas
+
+
+### 🛠️ Tools & Platforms
+- Google Colab
+- Jupyter Notebook
+- GitHub
+- VS Code
+
+### 📚 Currently Learning
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
 
 # 📊 GitHub Stats
 

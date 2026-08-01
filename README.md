@@ -59,21 +59,14 @@ Become an AI Engineer and build impactful AI applications.
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Aryan2624&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan2624&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan2624&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan2624&theme=tokyo-night"/>
-</p>
-
----
 
 # 📫 Connect With Me
 

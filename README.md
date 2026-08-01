@@ -47,15 +47,6 @@ Become an AI Engineer and build impactful AI applications.
 - Computer Vision
 - Large Language Models (LLMs)
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan2624&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan2624&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 

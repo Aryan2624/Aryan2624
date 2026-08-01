@@ -30,6 +30,13 @@ Become an AI Engineer and build impactful AI applications.
 - 🐍 Python
 - ☕ Java (Basic)
 
+---
+
+## 🏆 Certifications
+
+- 🎓 **Data Analyst in Python** — DataCamp | [View Certificate](YOUR_CERTIFICATE_LINK)
+- 🤖 **GenAI Powered Data Analytics** — Forage | [View Certificate](YOUR_CERTIFICATE_LINK)
+- 🛡️ **Ethical Hacking** — Cisco Networking Academy | [View Certificate](YOUR_CERTIFICATE_LINK)
 ### 🤖 AI & ML
 - Machine Learning
 - NumPy

@@ -34,9 +34,20 @@ Become an AI Engineer and build impactful AI applications.
 
 ## 🏆 Certifications
 
-- 🎓 **Data Analyst in Python** — DataCamp | [View Certificate](YOUR_CERTIFICATE_LINK)
-- 🤖 **GenAI Powered Data Analytics** — Forage | [View Certificate](YOUR_CERTIFICATE_LINK)
-- 🛡️ **Ethical Hacking** — Cisco Networking Academy | [View Certificate](YOUR_CERTIFICATE_LINK)
+- 🎓 **Data Analyst in Python** — DataCamp  
+  🔗 [View Certificate](https://www.datacamp.com/statement-of-accomplishment/track/b8612b122e29a566a3d229fdfcefa156a3e49bb7?raw=1)
+
+- 📊 **Data Manipulation with pandas** — DataCamp  
+  🔗 [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/39087c0347bc27450e335abb922932ce0998fa1d?raw=1)
+
+- 🤖 **GenAI Powered Data Analytics** — Forage (Tata iQ Job Simulation)  
+  🔗 [View Certificate](https://www.theforage.com/completioncertificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6975c530b1ee4126d0bacdf1_1769331010414_completion_certificate.pdf)
+
+- 🛡️ **Ethical Hacking** — Cisco Networking Academy  
+  🔗 [View Certificate](https://github.com/Aryan2624/Certificates/blob/main/EthicalHacker.pdf)
+
+---
+
 ### 🤖 AI & ML
 - Machine Learning
 - NumPy

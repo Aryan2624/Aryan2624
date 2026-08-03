@@ -79,7 +79,7 @@ Become an AI Engineer and build impactful AI applications.
 
 # 📫 Connect With Me
 
-📧 **Email:** blackdark2426@gmail.com
+📧 **Email:** blackarch.2426@gmail.com
 
 💼 **LinkedIn:** https://linkedin.com/in/aryan-dubey08
 

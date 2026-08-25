@@ -34,6 +34,9 @@ Become an AI Engineer and build impactful AI applications.
 
 ## 🏆 Certifications
 
+- 🚀 **Bharatiya Antariksh Hackathon 2026** — Hack2skill / ISRO  
+  🔗 [View Certificate](https://certificate.hack2skill.com/verify/2026H2S06BAH-P40526)
+
 - 🎓 **Data Analyst in Python** — DataCamp  
   🔗 [View Certificate](https://www.datacamp.com/statement-of-accomplishment/track/b8612b122e29a566a3d229fdfcefa156a3e49bb7?raw=1)
 

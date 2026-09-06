@@ -1,26 +1,40 @@
 <h1 align="center">Hi 👋, I'm Aryan Dubey</h1>
-<h3 align="center">B.Tech AI & ML Student | Python Developer | Machine Learning Enthusiast</h3>
+
+<h3 align="center">B.Tech AI & ML Student | Aspiring AI Engineer | Building Real-World AI Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Python+Developer;Learning+Deep+Learning+%26+Computer+Vision;Building+Projects+One+Step+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;B.Tech+AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Exploring+Deep+Learning+%26+Computer+Vision;Learning+NLP+%26+Large+Language+Models;Building+Real-World+AI+Projects" alt="Typing SVG" />
 </p>
+
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
+I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning**, focused on building practical AI systems that solve real-world problems. My interests include Machine Learning, Deep Learning, Computer Vision, NLP, and intelligent application development.
 
-💡 Passionate about AI, Machine Learning, Python, and solving real-world problems through technology.
+🔭 Currently working with my team on **satellite-data-driven AQI estimation and HCHO hotspot identification** for the **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**
 
+🛡️ Also building **FinGuard AI**, an AI-powered platform for detecting and preventing multiple types of online fraud
+
+🌱 Currently strengthening my skills in **Deep Learning, Computer Vision, NLP, Large Language Models, Explainable AI, and DSA**
+
+💡 Experienced with **Python, TensorFlow/Keras, NumPy, Pandas, FastAPI, SQL, and Machine Learning workflows**
+
+🎯 Aspiring **AI Engineer** focused on developing impactful, real-world AI solutions
+
+📫 Reach me at **[blackarch.2426@gmail.com](mailto:blackarch.2426@gmail.com)**
+
+---
+  
 🌱 **Currently Learning**
 - Deep Learning
 - Computer Vision
 - Large Language Models (LLMs)
 - Data Structures & Algorithms
 
-🎯 **Goal**
-Become an AI Engineer and build impactful AI applications.
+🎯 Goal
+Become an AI Engineer and build intelligent, real-world AI solutions that create meaningful impact
 
 ---
 

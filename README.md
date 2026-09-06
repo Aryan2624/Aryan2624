@@ -27,9 +27,11 @@ Become an AI Engineer and build impactful AI applications.
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- 🐍 Python
-- ☕ Java (Basic)
-
+- 🐍 Python — Proficient
+- 🟨 JavaScript — Intermediate
+- ☕ Java — Basic
+- 🗄️ SQL — Intermediate
+- 🐚 Bash / Shell — Basic
 ---
 
 ## 🏆 Certifications
@@ -44,7 +46,7 @@ Become an AI Engineer and build impactful AI applications.
   🔗 [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/39087c0347bc27450e335abb922932ce0998fa1d?raw=1)
 
 - 🤖 **GenAI Powered Data Analytics** — Forage (Tata iQ Job Simulation)  
-  🔗 [View Certificate](https://www.theforage.com/completioncertificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6975c530b1ee4126d0bacdf1_1769331010414_completion_certificate.pdf)
+  🔗 [View Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6975c530b1ee4126d0bacdf1_1769331010414_completion_certificate.pdf)
 
 - 🛡️ **Ethical Hacking** — Cisco Networking Academy  
   🔗 [View Certificate](https://github.com/Aryan2624/Certificates/blob/main/EthicalHacker.pdf)
@@ -53,9 +55,17 @@ Become an AI Engineer and build impactful AI applications.
 
 ### 🤖 AI & ML
 - Machine Learning
+- Deep Learning
+- TensorFlow / Keras
 - NumPy
 - Pandas
-
+- Computer Vision
+- CNN & Transfer Learning
+- RNN / LSTM / Bi-LSTM
+- NLP
+- Time-Series Forecasting
+- Feature Engineering
+- Model Evaluation
 
 ### 🛠️ Tools & Platforms
 - Google Colab
@@ -66,7 +76,10 @@ Become an AI Engineer and build impactful AI applications.
 ### 📚 Currently Learning
 - Deep Learning
 - Computer Vision
+- Natural Language Processing (NLP)
 - Large Language Models (LLMs)
+- Explainable AI
+- Data Structures & Algorithms
 
 
 ---

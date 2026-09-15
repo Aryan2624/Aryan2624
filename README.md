@@ -63,7 +63,7 @@ Become an AI Engineer and build intelligent, real-world AI solutions that create
   🔗 [View Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6975c530b1ee4126d0bacdf1_1769331010414_completion_certificate.pdf)
 
 - 🛡️ **Ethical Hacking** — Cisco Networking Academy  
-  🔗 [View Certificate](file:///C:/Users/dubey/Downloads/EthicalHackerUpdate20260915-20-34djyb.pdf)
+  🔗 [View Certificate](EthicalHacker.pdf)
 
 ---
 

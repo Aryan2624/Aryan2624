@@ -350,7 +350,7 @@ https://github.com/Aryan2624/Drone-Path-Optimization
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan2624&theme=tokyo-night&hide_border=true" />
+[![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan2624&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 

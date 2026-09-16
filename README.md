@@ -55,159 +55,60 @@ I enjoy working on projects where **AI models are not limited to notebooks**, bu
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Projects
 
-## 📈 StockVision AI
+### 📈 StockVision AI
+AI-powered stock forecasting and market intelligence platform using **Bi-LSTM, technical indicators, prediction validation, FastAPI, and React**.
 
-### AI-Powered Stock Forecasting & Market Intelligence Platform
-
-A full-stack AI platform combining **real stock market data, technical analysis, Deep Learning, prediction validation, market intelligence, and interactive dashboards**.
-
-### Key Features
-
-- Live stock market data
-- Searchable stock universe
-- Bi-LSTM stock forecasting
-- SMA / EMA / RSI / MACD indicators
-- Prediction history
-- Predicted vs actual validation
-- Uncertainty estimation
-- Relative strength intelligence
-- News sentiment analysis
-- Walk-forward model evaluation
-- Interactive React dashboard
-- FastAPI backend
-
-### Tech Stack
-
-`Python` `TensorFlow` `Keras` `FastAPI` `React` `Vite` `Tailwind CSS` `Recharts` `yfinance`
-
-🔗 **Repository:**  
-https://github.com/Aryan2624/StockVision-AI
+🔗 [View Repository](https://github.com/Aryan2624/StockVision-AI)
 
 ---
 
-## 🛡️ DeepShield AI
+### 🛡️ DeepShield AI
+🚧 **Currently Working**
 
-### AI-Powered Cybersecurity Intelligence Platform
+AI-powered cybersecurity platform for **phishing detection, malicious URL detection, anomaly detection, intrusion monitoring, risk scoring, and threat intelligence**.
 
-DeepShield AI is a production-style cybersecurity platform designed to combine **Machine Learning, Deep Learning, NLP, anomaly detection, behavioural analytics, and threat intelligence**.
-
-### Planned / Developing Modules
-
-- Malicious URL Detection
-- Phishing Email & Message Detection
-- Network Intrusion Detection
-- AI Anomaly Detection
-- User Behaviour Analytics
-- Brute-Force Detection
-- Login Security Monitoring
-- Unified AI Risk Engine
-- Explainable AI
-- Real-Time Security Alerts
-- Security Event Monitoring
-- Threat Network Visualization
-- AI Security Assistant
-- Model Analytics
-
-### Tech Stack
-
-`Python` `FastAPI` `Scikit-learn` `TensorFlow` `React` `Vite` `Tailwind CSS` `SQLite`
+🔗 [View Repository](https://github.com/Aryan2624/DeepShield-AI)
 
 ---
 
-## 🛰️ Satellite AQI & HCHO Hotspot Intelligence
+### 🛰️ ISRO AQI & HCHO Intelligence
+🚧 **Currently Working**
 
-### ISRO Bharatiya Antariksh Hackathon 2026
+Satellite-data-driven system for **AQI estimation, HCHO hotspot detection, pollution mapping, forecasting, and GIS-based environmental intelligence**.
 
-Working with my team on an AI and satellite-data-driven platform for:
-
-- Surface AQI estimation
-- HCHO hotspot identification
-- Gap-free daily pollution maps
-- 24–72 hour forecasting
-- GIS-based visualization
-- Pollution alerts
-- Environmental intelligence
-
-### Data Sources
-
-- Sentinel-5P
-- INSAT
-- MODIS
-- Landsat
-- Weather Data
-- CPCB Data
+**ISRO Bharatiya Antariksh Hackathon 2026**
 
 ---
 
-## 🎓 NeevLens AI
+### 🎓 NeevLens AI
+🚧 **Currently Working**
 
-### AI for Foundational Learning
+Offline-first adaptive learning platform that identifies **student skill gaps, prerequisite gaps, instructional groups, and recommended classroom interventions**.
 
-An **offline-first adaptive diagnostic and teacher decision-support platform** designed to help identify a child's actual learning level.
-
-The system aims to:
-
-- Identify skill gaps
-- Trace prerequisite learning gaps
-- Detect a student's skill frontier
-- Group students by instructional need
-- Recommend classroom interventions
-- Reassess targeted skills
-- Measure learning improvement
-
-Built for the **AI for Foundational Learning Hackathon**.
+**AI for Foundational Learning Hackathon**
 
 ---
 
-## 🧠 Brain Tumor Classification
+### 🧠 Brain Tumor Prediction
+Deep Learning project comparing **Custom CNN, ResNet50, and EfficientNetB3** for brain tumor classification. :contentReference[oaicite:1]{index=1}
 
-### Deep Learning + Computer Vision
-
-Developed a CNN-based brain tumor classification system using multiple Deep Learning architectures.
-
-### Models Explored
-
-- Custom CNN
-- ResNet50
-- EfficientNet-B3
-- EfficientNet-B4
-- MobileNet
-- Grad-CAM
-
-### Dataset
-
-```text
-Total Images : 7,200
-Training     : 5,600
-Testing      : 1,600
-```
-
-### Best Model
-
-```text
-EfficientNet-B3
-```
-
-Used **Grad-CAM** to improve explainability and visualize the regions influencing model predictions.
+🔗 [View Repository](https://github.com/Aryan2624/Brain-Tumor-Prediction)
 
 ---
 
-## 🚁 Drone Path Optimization
+### 🚁 Drone Path Optimization
+Drone navigation and route optimization project focused on **path planning, obstacle handling, and efficient route selection**.
 
-A project focused on optimizing drone navigation and path planning using algorithmic and AI-based approaches.
+🔗 [View Repository](https://github.com/Aryan2624/Drone-Path-Optimization)
 
-### Areas Explored
+---
 
-- Environment modelling
-- Path planning
-- Route optimization
-- Obstacle handling
-- Algorithmic decision making
+### 📱 Mobile App Feature Usage Association Miner
+From-scratch **Apriori Association Rule Mining** system that finds app features frequently used together to generate UI redesign insights. :contentReference[oaicite:2]{index=2}
 
-🔗 **Repository:**  
-https://github.com/Aryan2624/Drone-Path-Optimization
+🔗 [View Repository](https://github.com/Aryan2624/Mobile-App-Feature-Usage-Association-Miner)
 
 ---
 
@@ -341,16 +242,6 @@ https://github.com/Aryan2624/Drone-Path-Optimization
 <img height="170" src="https://github-readme-stats-three-iota-21.vercel.app/api?username=Aryan2624&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 <img height="170" src="https://github-readme-stats-three-iota-21.vercel.app/api/top-langs/?username=Aryan2624&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-# 🔥 GitHub Contribution Activity
-
-<div align="center">
-
-[![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan2624&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 

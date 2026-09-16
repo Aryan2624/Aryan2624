@@ -330,7 +330,7 @@ https://github.com/Aryan2624/Drone-Path-Optimization
 ### 🛡️ Ethical Hacking
 **Cisco Networking Academy**
 
-🔗 [View Certificate](https://github.com/Aryan2624/Certificates/blob/main/EthicalHacker.pdf)
+🔗 [View Certificate](https://github.com/Aryan2624/Ethical-hacking-certificate/blob/main/EthicalHacker.pdf)
 
 ---
 
